@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'd439f913fa28b129006d0d31efa6ca9d';
+const API_KEY = 'API_KEY';
 const BASE_URL = 'https://api.themoviedb.org/3';
 
 // Function to fetch the first page of top-rated movies
