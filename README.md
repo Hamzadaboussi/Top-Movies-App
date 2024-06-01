@@ -15,11 +15,12 @@
 - **API:** TMDb API (for accessing a treasure trove of movie data)
 
 
-This application was created during a 24-hour hackathon.
+This application was developed during a 24-hour hackathon, where it earned first prize.
+
 ## Getting Started:
 
 1. Clone the repository: `git clone https://github.com/your-username/top-movies-app.git`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
-Feel free to explore the codebase, contribute, and make this Top Movies App even better! If you encounter any issues or have suggestions, please open an [issue](https://github.com/your-username/top-movies-app/issues). Happy watching! 🎬
+Feel free to explore the codebase 🎬
