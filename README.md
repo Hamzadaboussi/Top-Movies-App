@@ -19,7 +19,7 @@ This application was developed during a 24-hour hackathon, where it earned first
 
 ## Getting Started:
 
-1. Clone the repository: `git clone https://github.com/your-username/top-movies-app.git`
+1. Clone the repository: `git clone https://github.com/Hamzadaboussi/Top-Movies-App.git`
 2. Install dependencies: `npm install`
 3. Start the application: `npm start`
 
